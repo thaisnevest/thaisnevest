@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/thaisnevest">
     <img  width="420px" src="https://github-readme-stats.vercel.app/api?username=thaisnevest&show_icons=true&theme=dracula&hide_border=true" />
-    <img  width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=thaisnevest&theme=dracula&hide_border=true" />
+    <img  width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=thaisnevest&theme=dracula&hide_border=true&mode=weekly" />
   </a>
 </p>
 
