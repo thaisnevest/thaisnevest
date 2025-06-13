@@ -1,5 +1,5 @@
 ### hi there 🌈🐈‍⬛
-<p>computer engineering student and software manager at @citiufpe </p>
+<p>computer engineering student and tech lead at @citiufpe </p>
 
 <p align="center">
 <a href="https://github.com/thaisnevest">
