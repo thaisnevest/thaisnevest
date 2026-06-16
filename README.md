@@ -1,11 +1,10 @@
-### hi there 🌈🐈‍⬛
-<p>computer engineering student and tech lead at @citiufpe </p>
+### hi there ‧₊˚👩🏻‍💻✩ ₊˚🎧⊹
+<p>computer engineering student and software egineer at @tds.company </p>
 
 <p align="center">
 <a href="https://github.com/thaisnevest">
-  <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisnevest&hide_border=true&layout=compact&theme=github_dark"/>
-  <img  width="330px" src="https://github.com/thaisnevest/thaisnevest/assets/56198772/9ead5599-6a7c-4502-afa2-4cc48f18f608"/>
-
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisnevest&hide_border=true&layout=compact&theme=github_dark"/>
+  <img height="200" alt="2abedef40d7d0a4dd2c7e32f52d1e45c"src="https://github.com/user-attachments/assets/7185e8c1-a9c6-40ef-a785-534d43c7fee8" />
 </a>
 </p>
 
