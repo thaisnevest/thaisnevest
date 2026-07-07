@@ -1,5 +1,5 @@
 ### hi there ‧₊˚👩🏻‍💻✩ ₊˚🎧⊹
-<p>computer engineering student and software egineer at @tds.company </p>
+<p>computer engineering student and software engineer at @tds.company </p>
 
 <p align="center">
 <a href="https://github.com/thaisnevest">
